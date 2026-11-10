@@ -1,0 +1,1 @@
+Hello, I am Krish Aggarwal, a 2nd year CS major. I am looking forward to building projects that can help out the community.
